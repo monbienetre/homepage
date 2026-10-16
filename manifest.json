@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "Mon Bien Être",
+  "short_name": "Mon Bien Être",
+  "description": "Devenez la meilleure version de vous-même !",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d5148",
+  "icons": [
+    {
+      "src": "/images/apple-touch-ico.jpg",
+      "sizes": "180x180",
+      "type": "image/jpg",
+      "purpose": "Apple touch ico"
+    },
+    {
+      "src": "/images/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
